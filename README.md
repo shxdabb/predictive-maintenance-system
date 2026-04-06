@@ -12,7 +12,7 @@ A machine learning-based system that analyzes sensor data from industrial equipm
 - Performance metrics: Accuracy, Precision, Recall, F1-Score
 - Dashboard-ready structure for visualization
 - Scalable and modular codebase 
-
+ 
 ---
 
 ## 🧠 Tech Stack 
