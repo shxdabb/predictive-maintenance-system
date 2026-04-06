@@ -11,7 +11,7 @@ A machine learning-based system that analyzes sensor data from industrial equipm
 - Supervised ML models for failure prediction (SVM, Random Forest, ANN, etc.)
 - Performance metrics: Accuracy, Precision, Recall, F1-Score
 - Dashboard-ready structure for visualization
-- Scalable and modular codebase
+- Scalable and modular codebase 
 
 ---
 
