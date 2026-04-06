@@ -15,7 +15,7 @@ A machine learning-based system that analyzes sensor data from industrial equipm
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack 
 
 - **Programming Language:** Python
 - **ML Libraries:** scikit-learn, pandas, numpy, matplotlib
