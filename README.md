@@ -3,7 +3,7 @@
 A machine learning-based system that analyzes sensor data from industrial equipment to forecast failures and optimize maintenance schedules. This project helps industries reduce downtime, improve equipment lifespan, and transition from reactive to proactive maintenance.
 
 ---
-
+ 
 ## 📌 Features
 
 - Real-time telemetry monitoring via UDP
