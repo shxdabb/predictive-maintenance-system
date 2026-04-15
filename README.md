@@ -4,7 +4,7 @@ A machine learning-based system that analyzes sensor data from industrial equipm
 
 ---
  
-## 📌 Features
+## 📌 Features 
 
 - Real-time telemetry monitoring via UDP
 - Historical data ingestion and preprocessing
