@@ -6,7 +6,7 @@ A machine learning-based system that analyzes sensor data from industrial equipm
  
 ## 📌 Features 
 
-- Real-time telemetry monitoring via UDP
+- Real-time telemetry monitoring via UDP 
 - Historical data ingestion and preprocessing
 - Supervised ML models for failure prediction (SVM, Random Forest, ANN, etc.)
 - Performance metrics: Accuracy, Precision, Recall, F1-Score
